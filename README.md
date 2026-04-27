@@ -84,7 +84,7 @@ $\color{rgb(215,198,182)}{\textit{\textsf{s}}}
 <!-- SOCIAL LINKS -->
 <p align="center">
   <a href="https://discord.com/users/1273767975811289135">discord ˚ ༘♡ ⋆｡˚</a> ・
-  <a href="https://atabook.org/deathwjsh">atabook ˚ ༘♡ ⋆｡˚</a>
+  <a href="https://atabook.org/ssharkyz">atabook ˚ ༘♡ ⋆｡˚</a>
 </p>
 
 <!-- DIVIDER -->
@@ -103,8 +103,7 @@ $\color{#d7c6b6}{\textit{\textsf{thank}}}\
 \color{#7da2a5}{\textit{\textsf{make}}}\ 
 \color{#3c6e6f}{\textit{\textsf{this}}}\ 
 \color{#d7c6b6}{\textit{\textsf{repo}}}$
-</p>
-
+</p> <p align="center"> @1CECUR3
 <!-- DIVIDERS -->
 <p align="center">
   <img width="540" height="55" src="https://github.com/user-attachments/assets/40bcdbdd-811a-48e8-bd14-82362febc066" />
