@@ -84,7 +84,7 @@ $\color{rgb(215,198,182)}{\textit{\textsf{s}}}
 <!-- SOCIAL LINKS -->
 <p align="center">
   <a href="https://discord.com/users/1273767975811289135">discord ˚ ༘♡ ⋆｡˚</a> ・
-  <a href="https://atabook.org/ssharkyz">atabook ˚ ༘♡ ⋆｡˚</a>
+  <a href="https://ssharkyz.atabook.org>atabook ˚ ༘♡ ⋆｡˚</a>
 </p>
 
 <!-- DIVIDER -->
